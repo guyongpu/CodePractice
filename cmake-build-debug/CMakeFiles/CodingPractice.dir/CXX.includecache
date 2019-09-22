@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/OneDrive/CodingInterview/CodingPractice/main.cpp
+iostream
+-
+src/Sort.h
+E:/OneDrive/CodingInterview/CodingPractice/src/Sort.h
+
+E:/OneDrive/CodingInterview/CodingPractice/src/Sort.h
+iostream
+-
+vector
+-
+algorithm
+-
+
